@@ -1,0 +1,37 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#FFD275",
+        "activityBar.activeBorder": "#ffa172",
+        "activityBar.background": "#E8AE68",
+        "activityBar.foreground": "#DB5A42",
+        "activityBar.inactiveForeground": "#6b281c99",
+        "activityBarBadge.background": "#ffa172",
+        "activityBarBadge.foreground": "#DB5A42",
+        "sash.hoverBorder": "#E8AE68",
+        "statusBar.background": "#FFD275",
+        "statusBar.foreground": "#DB5A42",
+        "statusBarItem.hoverBackground": "#f7df1e",
+        "statusBarItem.remoteBackground": "#FFD275",
+        "statusBarItem.remoteForeground": "#DB5A42",
+        "titleBar.activeBackground": "#FFD275",
+        "titleBar.activeForeground": "#DB5A42",
+        "titleBar.inactiveBackground": "#FFD27599",
+        "titleBar.inactiveForeground": "#DB5A4299",
+        "commandCenter.border": "#FFD275"
+    },
+    "peacock.color": "#FFD275",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ],
+    "editor.formatOnSave": true,
+    "sonarlint.connectedMode.project": {
+        "connectionId": "https-sonar-verksamt-se",
+        "projectKey": "ui-activity-plan"
+    },
+    
+}
